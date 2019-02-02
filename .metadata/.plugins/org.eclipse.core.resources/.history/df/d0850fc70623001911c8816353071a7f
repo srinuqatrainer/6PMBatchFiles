@@ -1,0 +1,12 @@
+<suite name="OHRM">
+  
+
+
+ <test name="on chrome">
+     <parameter name="Browser" value="chrome"/>
+       <classes>
+          <class name="com.GRID.OHRM_LogInTest"/>
+       </classes>
+   </test>
+
+</suite>

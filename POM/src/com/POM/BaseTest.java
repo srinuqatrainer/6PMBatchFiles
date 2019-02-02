@@ -1,0 +1,34 @@
+package com.POM;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
+
+public class BaseTest {
+	String url="http://127.0.0.1/orangehrm-4.0/symfony/web/index.php/auth/login";
+	WebDriver driver = null;
+	
+	@BeforeMethod
+	public void setUp()
+	{
+		String browserName="FF";
+		if(browserName.equals("FF"))
+		{
+			driver = new FirefoxDriver();
+		}
+			driver.get(url);
+	}
+
+	
+	@AfterMethod
+	public void tearDown()
+	{
+		driver.close();
+	}
+	
+	public WebDriver getDriver()
+	{
+		return driver;
+	}
+}

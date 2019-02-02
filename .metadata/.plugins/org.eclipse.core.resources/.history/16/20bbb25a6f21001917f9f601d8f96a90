@@ -1,0 +1,7 @@
+<suite name="NewTours">
+  <test name="NewTours User Registration"/>
+    <classes>
+       <class name="com.DataDriven.NewTours_NewUserRegristration_TestData"/>
+   </classes>
+ </test>
+</suite>

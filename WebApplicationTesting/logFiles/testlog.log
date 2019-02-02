@@ -1,0 +1,8 @@
+2019-02-01 19:45:38,208 - OHRM_LogInTest -INFO - Firefox Browser launched successfully
+2019-02-01 19:45:39,429 - OHRM_LogInTest -INFO - successfully navigated to OrangeHRM HomePage
+2019-02-01 19:45:40,012 - OHRM_LogInTest -INFO - Enter UserName Successfully
+2019-02-01 19:45:40,111 - OHRM_LogInTest -INFO - Enter Password Successfully
+2019-02-01 19:45:42,687 - OHRM_LogInTest -INFO - Click on Submit button
+2019-02-01 19:45:42,720 - OHRM_LogInTest -INFO - LogIn Successfull - PASS
+2019-02-01 19:45:43,788 - OHRM_LogInTest -INFO - Application logOut
+2019-02-01 19:45:43,810 - OHRM_LogInTest -INFO - Application close

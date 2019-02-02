@@ -1,0 +1,143 @@
+2019-01-31 18:29:37,973 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\pom.xml
+2019-01-31 18:29:48,385 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewTours:MyMavenProject:0.0.1-SNAPSHOT @ C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\pom.xml.
+2019-01-31 18:29:55,116 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/main/java
+2019-01-31 18:29:55,163 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/test/java
+2019-01-31 18:29:55,569 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 17 sec
+2019-01-31 18:29:57,263 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:29:57,263 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:29:57,266 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:29:57,266 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:39:27,272 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewTours:MyMavenProject:0.0.1-SNAPSHOT @ C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\pom.xml.
+2019-01-31 18:39:44,438 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:39:44,439 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:39:44,441 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:39:44,441 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:39:55,000 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:39:55,001 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:39:55,013 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:39:55,013 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:40:38,200 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-01-31 18:40:38,907 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewTours:MyMavenProject:0.0.1-SNAPSHOT @ C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\pom.xml.
+2019-01-31 18:40:39,601 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/main/java
+2019-01-31 18:40:39,612 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/test/java
+2019-01-31 18:40:39,975 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-01-31 18:40:40,913 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:40:40,924 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:40:40,940 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:40:40,976 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:42:46,211 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewTours:MyMavenProject:0.0.1-SNAPSHOT @ C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\pom.xml.
+2019-01-31 18:42:47,467 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:42:47,484 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:42:47,505 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:42:47,505 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:42:49,837 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:42:49,840 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:42:49,843 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:42:49,845 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:42:56,966 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:42:56,973 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:42:56,985 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:42:56,985 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:42:59,949 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:42:59,950 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:42:59,952 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:42:59,953 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:43:20,320 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:43:20,336 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:43:20,355 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:43:20,356 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:43:39,130 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:43:39,130 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:43:39,132 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:43:39,132 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:43:47,116 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:43:47,130 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:43:47,144 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:43:47,144 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:47:38,560 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:47:38,561 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:47:38,564 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:47:38,564 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:47:58,961 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:47:59,023 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:47:59,052 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:47:59,053 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:48:25,787 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:48:25,788 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:48:25,789 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:48:25,790 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:48:40,549 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:48:40,557 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:48:40,570 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:48:40,570 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:49:10,495 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:49:10,495 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:49:10,497 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:49:10,498 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:49:41,623 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:49:41,644 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:49:41,657 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:49:41,657 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:50:03,486 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:50:03,486 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:50:03,487 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:50:03,487 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:50:57,861 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:50:57,873 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:50:57,888 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:50:57,889 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:53:22,318 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:53:22,318 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:53:22,321 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:53:22,322 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:58:00,959 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject
+2019-01-31 18:58:00,960 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-01-31 18:58:06,079 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:58:06,080 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:58:06,087 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:58:06,093 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:58:37,013 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-01-31 18:58:37,690 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewTours:MyMavenProject:0.0.1-SNAPSHOT @ C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\pom.xml.
+2019-01-31 18:58:38,737 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/main/java
+2019-01-31 18:58:38,746 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/test/java
+2019-01-31 18:58:39,023 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-01-31 18:58:40,032 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:58:40,045 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:58:40,072 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:58:40,086 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:58:53,357 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-01-31 18:58:53,970 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewTours:MyMavenProject:0.0.1-SNAPSHOT @ C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\pom.xml.
+2019-01-31 18:58:54,617 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/main/java
+2019-01-31 18:58:54,625 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/test/java
+2019-01-31 18:58:54,920 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-01-31 18:58:55,912 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:58:55,913 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:58:55,926 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:58:55,937 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 18:59:04,946 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject
+2019-01-31 18:59:04,946 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-01-31 18:59:32,751 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:59:32,751 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 18:59:32,761 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 18:59:32,769 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 19:03:08,732 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\srinivas1\Desktop\6PMBatch\Testing\pom.xml
+2019-01-31 19:03:08,986 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewTours:Testing:0.0.1-SNAPSHOT @ C:\Users\srinivas1\Desktop\6PMBatch\Testing\pom.xml.
+2019-01-31 19:03:09,728 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Testing/src/main/java
+2019-01-31 19:03:09,817 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Testing/src/test/java
+2019-01-31 19:03:10,150 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2019-01-31 19:03:11,187 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 19:03:11,204 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\Testing\src\main\resources
+2019-01-31 19:03:11,219 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 19:03:11,227 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\Testing\src\test\resources
+2019-01-31 19:13:51,390 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 19:13:51,397 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 19:13:51,405 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 19:13:51,411 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 19:14:53,741 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 19:14:53,752 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 19:14:53,761 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 19:14:53,769 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources
+2019-01-31 19:15:31,809 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 19:15:31,818 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\main\resources
+2019-01-31 19:15:31,824 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-31 19:15:31,834 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\6PMBatch\MyMavenProject\src\test\resources

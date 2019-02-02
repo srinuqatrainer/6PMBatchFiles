@@ -1,0 +1,93 @@
+package com.OHRM;
+
+import java.util.concurrent.TimeUnit;
+
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
+
+public class OHRM_LogInTest 
+{
+
+	public static Logger logger = Logger.getLogger("OHRM_LogInTest");
+	
+	WebDriver driver = null;
+	String url="http://127.0.0.1/orangehrm-4.0/symfony/web/index.php/auth/login";
+	String userName="admin";
+	String password="password";
+	
+	
+	@BeforeTest
+	public void setUp()
+	{
+		PropertyConfigurator.configure("log4j.properties");
+		
+		driver = new FirefoxDriver();
+		logger.info("Firefox Browser launched successfully");
+		
+		
+		driver.get(url);
+		logger.info("successfully navigated to OrangeHRM HomePage");
+		
+		driver.manage().window().maximize();
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+	}
+			
+	
+	@Test
+	public void logIn()
+	{
+		// <input name="txtUsername" id="txtUsername" type="text">
+		driver.findElement(By.id("txtUsername")).sendKeys(userName);
+		logger.info("Enter UserName Successfully");
+		
+		// <input name="txtPassword" id="txtPassword" type="password">
+		driver.findElement(By.id("txtPassword")).sendKeys(password);
+		logger.info("Enter Password Successfully");
+		
+		// <input type="submit" name="Submit" class="button" id="btnLogin" value="LOGIN">
+		
+		driver.findElement(By.name("Submit")).click();
+		logger.info("Click on Submit button");
+		
+		String expected_Text="Welcome Admin";
+		System.out.println("The expected text after login is : "+expected_Text);
+		
+		// <a href="#" id="welcome" class="panelTrigger">Welcome Admin</a>
+		String actual_Text=driver.findElement(By.id("welcome")).getText();
+		System.out.println("The actual text after logIn is : "+actual_Text);
+		
+		if(actual_Text.equals(expected_Text))
+		{
+			//System.out.println("LogIn Successfull - PASS");
+			logger.info("LogIn Successfull - PASS");
+		}
+		else
+		{
+			//System.out.println("LogIn Failed - FAIL");
+			logger.info("LogIn Failed - FAIL");
+		}
+		
+		driver.findElement(By.id("welcome")).click();
+		
+		// <a href="/orangehrm-4.0/symfony/web/index.php/auth/logout">Logout</a>
+		
+		driver.findElement(By.linkText("Logout")).click();
+		
+		logger.info("Application logOut");
+		
+	}
+	
+	@AfterTest
+	public void tearDown()
+	{
+		driver.close();
+		logger.info("Application close");
+	}
+	
+}

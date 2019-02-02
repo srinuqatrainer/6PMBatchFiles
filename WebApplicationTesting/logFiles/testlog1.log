@@ -1,0 +1,16 @@
+[main] INFO OHRM_LogInTest - Firefox Browser launched successfully
+[main] INFO OHRM_LogInTest - successfully navigated to OrangeHRM HomePage
+[main] INFO OHRM_LogInTest - Enter UserName Successfully
+[main] INFO OHRM_LogInTest - Enter Password Successfully
+[main] INFO OHRM_LogInTest - Click on Submit button
+[main] INFO OHRM_LogInTest - LogIn Successfull - PASS
+[main] INFO OHRM_LogInTest - Application logOut
+[main] INFO OHRM_LogInTest - Application close
+[main] INFO OHRM_LogInTest - Firefox Browser launched successfully
+[main] INFO OHRM_LogInTest - successfully navigated to OrangeHRM HomePage
+[main] INFO OHRM_LogInTest - Enter UserName Successfully
+[main] INFO OHRM_LogInTest - Enter Password Successfully
+[main] INFO OHRM_LogInTest - Click on Submit button
+[main] INFO OHRM_LogInTest - LogIn Successfull - PASS
+[main] INFO OHRM_LogInTest - Application logOut
+[main] INFO OHRM_LogInTest - Application close
